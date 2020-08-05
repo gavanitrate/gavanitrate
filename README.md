@@ -4,8 +4,11 @@
 
 I like to solve problems - I just happen to use a keyboard to do it.
 
-I value an environment in which autonomy, self responsibility and self learning
-are   
+What I value:
+ - Innovation & open mindedness 🧠
+ - Autonomy 🚗
+ - Self-responsibility & self-learning 💹
+ - Respect for the truth & tolerance 🙏
 
 ## Technology & Tools
 
